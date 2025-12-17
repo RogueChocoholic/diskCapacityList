@@ -1,10 +1,13 @@
 # Disk Capacity Analyzer
 
+I generated the whole thing including the readme except for the main file so just so u know, I made this because I kinda wanted what this does so I generated the script in grok Gemini and windsurf just because "why not"
+My edit in the readme ends here and the rest is generated ✌️ 
+
 A Python-based tool to analyze and visualize disk usage across different storage devices. Choose between multiple AI-powered analysis engines to get detailed insights into your disk space consumption.
 
 ## 🌟 Features
 
-- **Multiple Analysis Engines**: Choose from different AI-powered analyzers (Grok AI, Gemini AI, Windsurf AI)
+- **Multiple Analysis Scripts**: Choose from different AI-generated scripts (Grok AI, Gemini AI, Windsurf AI)
 - **Cross-Platform**: Works on Windows, macOS, and Linux
 - **Detailed Reporting**: Get comprehensive disk usage reports
 - **CSV Export**: Save analysis results for further processing
