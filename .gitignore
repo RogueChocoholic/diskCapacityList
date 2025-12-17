@@ -1,0 +1,8 @@
+# Ignore log files
+*.log
+*.temp
+
+# Dependencies
+
+__pycache__/
+venv/
