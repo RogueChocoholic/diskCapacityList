@@ -14,8 +14,8 @@ A Python-based tool to analyze and visualize disk usage across different storage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/disk-capacity-analyzer.git
-   cd disk-capacity-analyzer
+   git clone https://github.com/RogueChocoholic/diskCapacityList.git
+   cd diskCapacityList
    ```
 
 2. Create and activate a virtual environment (recommended):
